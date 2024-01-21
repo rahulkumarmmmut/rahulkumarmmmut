@@ -13,6 +13,8 @@
  🔭 I’m currently working on **OSCP**
  
  🌱 I’m currently learning **OWASP and HIPPA**
+
+ 🌱 Find my resume  
  
 💬 Ask me about **Security Automation, Vulnerability Assessment... or anything [here](https://github.com/rahulkumarmmmut/rahulkumarmmmut/issues)**
  </div>
@@ -35,3 +37,16 @@
   </a>
      
 </div>
+
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
