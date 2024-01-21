@@ -31,7 +31,7 @@
      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /> 
   </a>
     <a href="https://tryhackme.com/p/Porsia007/" target="_blank">
-     <img src="https://img.shields.io/badge/Tryhackme-#212C42?style=for-the-badge&logo=#212C42&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Tryhackme-212C42?style=for-the-badge&logo=#212C42&logoColor=white" target="_blank" /> 
   </a>
      
 </div>
