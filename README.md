@@ -11,7 +11,9 @@
 <div align="center">
 
  🔭 I’m currently working on **OSCP**
+ 
  🌱 I’m currently learning **OWASP and HIPPA**
+ 
 💬 Ask me about **Security Automation, Vulnerability Assessment... or anything [here](https://github.com/salesp07/salesp07/issues)**
  </div>
 
