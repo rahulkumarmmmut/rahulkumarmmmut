@@ -13,8 +13,6 @@
  🔭 I’m currently working on **OSCP**
  
  🌱 I’m currently learning **OWASP and HIPPA**
-
- 🌱 Find my resume  
  
 💬 Ask me about **Security Automation, Vulnerability Assessment... or anything [here](https://github.com/rahulkumarmmmut/rahulkumarmmmut/issues)**
  </div>
