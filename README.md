@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **OWASP and HIPPA**
  
-💬 Ask me about **Security Automation, Vulnerability Assessment... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Security Automation, Vulnerability Assessment... or anything [here](https://github.com/rahulkumarmmmut/rahulkumarmmmut/issues)**
  </div>
 
  <div align="center"> 
@@ -25,6 +25,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.rahulkumar.life/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+   <a href="https://rahulk2903.medium.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Medium-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+     
 </div>
