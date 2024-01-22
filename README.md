@@ -66,7 +66,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumarmmmut&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
   <img width=325 align="center" src="https://github-readme-stats-rahulkumarmmmut.vercel.app/api/top-langs/?username=rahulkumarmmmut&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 <br/><br/>
 
 <hr/>
