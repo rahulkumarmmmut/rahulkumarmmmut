@@ -64,7 +64,7 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahulkumarmmmut&theme=dracula" alt="GitHub Streak" /></a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumarmmmut&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
-  <img width=325 align="center" src="https://github-readme-stats-rahulkumarmmmut.vercel.app/api/top-langs/?username=rahulkumarmmmut&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumarmmmut)](https://github.com/rahulkumarmmmut/github-readme-stats)
 </div>
 <br/><br/>
 
